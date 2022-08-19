@@ -15,10 +15,6 @@
   ##
  
 <div>
-  <a href="https://instagram.com/Pedro_Pessoa21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorRubenspedro2024@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/PedroPessoa00-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![ Animação de cobra ](https://github.com/PedroPessoa/PedroPessoa/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.instagram.com/Pedro_Pessoa21/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "rubenspedro2024@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 </div>
